@@ -38,7 +38,7 @@ def gcd():
 ```
 
 ## Output:
-![git log](gcd.png)
+![git log](mohangcd.png)
 
 
 ## Result:
